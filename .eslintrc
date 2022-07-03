@@ -9,7 +9,7 @@
     "quotes": ["warn", "single"],
     "jsx-quotes": ["warn", "prefer-double"],
     "indent": ["warn", 2],
-    "max-len": ["warn", {"code": 60}],
+    "max-len": ["warn", {"code": 100}],
     "comma-dangle": ["warn", "never"],
     "semi": ["warn", "never"],
     "import/order": ["warn", {
